@@ -1,0 +1,17 @@
+
+p{
+    background-color:burlywood;
+    font-size:20px;
+    font-family:fantasy;
+    font-style:italic;
+    color: wheat;
+}
+p:hover{
+background-color: teal;
+}
+h1{
+    background-color: grey;
+}
+h1:hover{
+    background-color: lightgreen;
+}
